@@ -1,0 +1,45 @@
+header{
+    justify-content: center;
+    text-align: center;
+}
+.searchField {
+    width: 300px;
+}
+
+section{
+    text-align: center;
+    background-color: lightgray;
+}
+article {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+
+#firstlist{
+    background-color: lightseagreen;
+    margin-right: 5px;
+    width: 39%;
+
+}
+#secondlist{
+    background-color: lightseagreen;
+    margin-right: 5px;
+    width: 18%;
+
+}
+#thirdlist{
+    background-color: lightseagreen;
+    width: 43%;
+}
+
+li{
+    list-style: none;
+}
+
+footer{
+    text-align: center;
+}
